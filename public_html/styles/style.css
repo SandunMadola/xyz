@@ -1,0 +1,51 @@
+*{    
+    float: left;
+    text-align: center;
+    margin: 0;
+}
+div {
+    font-style: normal;
+    width: 100%;
+}
+header{
+    background-color: orchid;
+    width: 100%;
+}
+nav{
+    background-color: lightcoral;
+    width: 30%;
+    height: 100%;
+}
+section{
+    background-color: blanchedalmond;
+    width: 40%;
+    height: 100%;
+}
+aside{
+    background-color:darkorchid;
+    width: 30%;
+    height: 100%;
+      
+}
+footer{
+    background-color:  brown;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2015, 1:12:25 AM
+    Author     : SandunMadola
+*/
+
